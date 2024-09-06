@@ -2,5 +2,5 @@
 
 [MOJE STRÁNKA](https://hexx1k.github.io/vizitka/)
 
-## <--- TAKTO VYPADÁ PÁJA 
+## <--- PÁJÍSEK
 ![OBRÁZEK](maxresdefault.jpg)
