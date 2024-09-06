@@ -1,5 +1,6 @@
-# vizitka-2023
+# PÁJÍSKOVO REPORTÁŽ
 
-Šablona projektu pro cvičení práce s Gitem.
+[MOJE STRÁNKA](https://hexx1k.github.io/vizitka/)
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+## IDK XD
+![OBRÁZEK](maxresdefault.jpg)
